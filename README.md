@@ -1,20 +1,20 @@
 ![I am Web Developer](https://media.licdn.com/dms/image/v2/D5622AQFGr9NRp5DmOw/feedshare-shrink_800/B56ZpaRk07G4Ag-/0/1762451157000?e=1764201600&v=beta&t=BRBKcu9RVtFb0rfsXLeg3mYIlQMkgA6w-3cjoU0fhiY)
-##  Assalamu Alaikum I m Ashilk🔚
+#  Assalamu Alaikum "I m Ashilk"
 
-### I am Web Developer😍
+### I am Web Developer�💻
 
 
-####Aspiring AI Engineer👨‍🎓
-I am a Computer Science and Technology (CST) student at Dhaka Polytechnic Institute. I am focused on leveraging my technical foundation to become an AI Engineer.
+#### Aspiring AI Engineer👨‍🎓
+#### I am a Computer Science and Technology (CST) student at Dhaka Polytechnic Institute. I am focused on leveraging my technical foundation to become an AI Engineer.
 
-Skills:  / REACT / JS / HTML / CSS
+#### Skills:  / REACT / JS / HTML / CSS ⚛️
 
-- 🔭 ####I’m currently working on  cst student✍️ 
-- 🌱 ####I’m currently learning javascript and python DJ 
-- 👯#### I’m looking to collaborate on github👌
-- 🤔 ####I’m looking for help with everything 👥
-- 💬 ####Ask me about web development 
-- 📫 ####How to reach me: halima520ashu@gmail.com 
+##### - 🔭 *I’m currently working on  cst student✍️ 
+##### - 🌱 *I’m currently learning javascript and python DJ🔛 
+##### - 👯*I’m looking to collaborate on github👌
+##### - 🤔 *I’m looking for help with everything 👥
+##### - 💬*Ask me about web development❓ 
+##### - 📫 *How to reach me: halima520ashu@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/halimaashu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashik-rahman-73a606347/overlay/about-this-profile//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1AhVyhLsep/)  
