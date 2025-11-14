@@ -1,5 +1,5 @@
 ![I am Web Developer](https://media.licdn.com/dms/image/v2/D5622AQFGr9NRp5DmOw/feedshare-shrink_800/B56ZpaRk07G4Ag-/0/1762451157000?e=1764201600&v=beta&t=BRBKcu9RVtFb0rfsXLeg3mYIlQMkgA6w-3cjoU0fhiY)
-#  Assalamu Alaikum "I m Ashilk"
+#  Assalamu Alaikum "I am Ashilk"
 
 ### I am Web Developer�💻
 
