@@ -87,8 +87,6 @@ Frontend Developer | MERN Stack Learner | CSE Student
 
 </p>
 
----
-
 <!-- ===================== TOP LANGUAGES ===================== -->
 
 ## 💻 Top Languages
