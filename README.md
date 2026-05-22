@@ -1,29 +1,129 @@
+<!-- ===================== BANNER ===================== -->
 
-#  Assalamu Alaikum "I am Ashilk"
+<p align="center">
+  <img width="100%" src="https://i.ibb.co/Q37df9ZQ/github-bg.png" />
+</p>
 
-### I am Web Developer�💻
+<!-- ===================== TITLE ===================== -->
 
+<h1 align="center">Hi 👋, I'm Ashik Rahman</h1>
 
-#### Aspiring AI Engineer👨‍🎓
-#### I am a Computer Science and Technology (CST) student at Dhaka Polytechnic Institute. I am focused on leveraging my technical foundation to become an AI Engineer.
+<h3 align="center">
+Frontend Developer | MERN Stack Learner | CSE Student
+</h3>
 
-#### Skills:  / REACTjs / JS / HTML / CSS ⚛️
+<!-- ===================== PROFILE VIEWS ===================== -->
 
-##### - 🔭 *I’m currently working on  cst student✍️ 
-##### - 🌱 *I’m currently learning javascript and python DJ🔛 
-##### - 👯*I’m looking to collaborate on github👌
-##### - 🤔 *I’m looking for help with everything 👥
-##### - 💬*Ask me about web development❓ 
-##### - 📫 *How to reach me: halima520ashu@gmail.com 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=halimaashu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+<!-- ===================== ABOUT ME ===================== -->
 
-[[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/halimaashu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashik-rahman-73a606347/overlay/about-this-profile//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1AhVyhLsep/)  ](https://www.linkedin.com/in/ashik-rahman-73a606347/recent-activity/images/)
+## 🚀 About Me
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+🎓 CSE Student at Dhaka Polytechnic Institute  
+💻 Passionate about Web Development  
+🌱 Currently learning Next.js & Backend Development  
+🔥 Exploring MERN Stack Development  
+🎯 Goal: Become a Full Stack Developer  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=halimaashu)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halimaashu)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ===================== CURRENT ACTIVITIES ===================== -->
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=halimaashu)  
+## 📌 Current Activities
 
+- 🌱 I’m exploring NEXT.js
+- 💻 Working on a Tourism Website
+- 🔥 Learning Backend Development
+- ⚡ Improving JavaScript Skills
+
+---
+
+<!-- ===================== SKILLS ===================== -->
+
+## 💻 Skills
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
+
+</p>
+
+---
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ashik-rahman-73a606347" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+</a>
+
+<a href="https://facebook.com/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" width="40" />
+</a>
+
+<a href="mailto:halimas20ashu@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+</a>
+
+</p>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=halimaashu&show_icons=true&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=halimaashu&theme=tokyonight" />
+
+</p>
+
+---
+
+<!-- ===================== TOP LANGUAGES ===================== -->
+
+## 💻 Top Languages
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimaashu&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=halimaashu&theme=tokyonight&row=1&column=6" />
+
+</p>
+
+---
+
+<!-- ===================== CONTACT ===================== -->
+
+## 📫 Contact Information
+
+📍 Dhaka, Bangladesh  
+📧 Email: halimas20ashu@gmail.com  
+
+---
+
+<!-- ===================== FUN LINE ===================== -->
+
+<h3 align="center">
+💻 Code • Build • Learn • Repeat 🚀
+</h3>
