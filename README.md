@@ -93,7 +93,7 @@ Frontend Developer | MERN Stack Learner | CSE Student
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimaashu&layout=compact&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimaashu&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 </p>
 
